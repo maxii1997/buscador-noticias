@@ -3,9 +3,6 @@
 </script>
 
 <template>
-  <v-btn variant="outlined">
-  Button
-</v-btn>
   
 </template>
 
